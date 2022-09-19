@@ -1,0 +1,42 @@
+body{
+    background-color: #42855B;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1, h2{
+    
+    text-align: center;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+  ul, ol{
+    background-color: #90B77D;
+    font-size: 20px;
+  }
+  
+ul a {
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-size: 32px;
+    
+}
+
+img{
+    width: 500px;
+    height: 500px;
+    
+}
+
+p{
+    font-size: 20px;
+    background-color: #90B77D;
+    text-align: center;
+}
+
+a{
+    color: aliceblue;
+    font-size: 40px;
+    text-decoration: none;
+}
